@@ -1,7 +1,7 @@
 {
   "name": "nodejs-merkle-tree",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js Merkle Tree Implementation",
   "main": "index.js",
   "type": "module",
   "scripts": {
